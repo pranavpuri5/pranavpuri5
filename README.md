@@ -3,9 +3,6 @@
 <h3 align="center">A passionate AI-ML engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xT5LMBSrzB9a0iWpX2/giphy.gif?cid=790b7611fa16bd142317eb0efa4feb5393a766ab621cfaca&rid=giphy.gif&ct=g">
 
-<h1 align="center">Hi 👋, I'm Pranav Puri</h1>
-<h3 align="center">A passionate AI-ML engineer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpuri5&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpuri5" /> </p>
 
 - 🔭 I’m currently working on **YOLOV5 projects, Tumor Detection**
