@@ -1,10 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Pranav Puri</h1>
 <h3 align="center">A passionate AI-ML engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xT5LMBSrzB9a0iWpX2/giphy.gif?cid=790b7611fa16bd142317eb0efa4feb5393a766ab621cfaca&rid=giphy.gif&ct=g">
+
+<h1 align="center">Hi 👋, I'm Pranav Puri</h1>
+<h3 align="center">A passionate AI-ML engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpuri5&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpuri5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpuri5" alt="pranavpuri5" /></a> </p>
 
 - 🔭 I’m currently working on **YOLOV5 projects, Tumor Detection**
 
@@ -31,3 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavpuri5&show_icons=true&locale=en" alt="pranavpuri5" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpuri5&" alt="pranavpuri5" /></p>
